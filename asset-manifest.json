@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IT-Kamianets/chatapp/static/css/main.f1f57640.css",
-    "main.js": "/IT-Kamianets/chatapp/static/js/main.0558cfc5.js",
-    "static/js/453.1f4fc30a.chunk.js": "/IT-Kamianets/chatapp/static/js/453.1f4fc30a.chunk.js",
-    "index.html": "/IT-Kamianets/chatapp/index.html",
-    "main.f1f57640.css.map": "/IT-Kamianets/chatapp/static/css/main.f1f57640.css.map",
-    "main.0558cfc5.js.map": "/IT-Kamianets/chatapp/static/js/main.0558cfc5.js.map",
-    "453.1f4fc30a.chunk.js.map": "/IT-Kamianets/chatapp/static/js/453.1f4fc30a.chunk.js.map"
+    "main.css": "/static/css/main.f1f57640.css",
+    "main.js": "/static/js/main.0172902c.js",
+    "static/js/453.1f4fc30a.chunk.js": "/static/js/453.1f4fc30a.chunk.js",
+    "index.html": "/index.html",
+    "main.f1f57640.css.map": "/static/css/main.f1f57640.css.map",
+    "main.0172902c.js.map": "/static/js/main.0172902c.js.map",
+    "453.1f4fc30a.chunk.js.map": "/static/js/453.1f4fc30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1f57640.css",
-    "static/js/main.0558cfc5.js"
+    "static/js/main.0172902c.js"
   ]
 }
